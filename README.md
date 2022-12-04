@@ -6,7 +6,7 @@ pkg install git python
 
 git clone https://github.com/storiku/Hinewbie
 
-# Ekseskusi
+# Eksekusi 
 cd Hinewbie
 
 python Hi.py
